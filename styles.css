@@ -1,0 +1,96 @@
+
+/* Lila */
+.about-me {
+    background-color: #b0c2f2;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Rosa suave */
+.experience {
+    background-color: #f0a6ca;
+    padding: 20px;
+    margin: 10px;
+    color: #555;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience ul {
+    margin-top: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px; 
+    color: #555;
+}
+
+/* Crema */
+.footer {
+    background-color: #f7ebd3;
+    color: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Lila */
+#main-header {
+    background-color: #9c89b8;
+    color: rgb(223, 186, 186);
+    padding: 15px;
+    margin: 50px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 8px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main-header h1 {
+    display: inline-block; 
+    vertical-align: middle; 
+    margin-bottom: 10px; 
+}
+
+#main-header img {
+    width: 5%; 
+    display: inline-block; 
+    vertical-align: middle; 
+    margin-left: 10px; 
+}
+
+
+/* Gris oscuro */
+#about-title {
+    color: #555;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Crema */
+body {
+    max-width: 1500px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    line-height: 1.6;
+    background-color: #f7ebd3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2 {
+    margin: 0;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+p {
+    margin: 10px 0;
+    color: #555;
+}
+
+img {
+    max-width: 50%; 
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+}
